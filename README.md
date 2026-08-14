@@ -188,3 +188,13 @@ Divisione consigliata per **competenza trasversale**, non per "un modulo a testa
 - Committate spesso, con scene .rt di test versionate nel repo (non fanno male al norm check se in cartella dedicata, es. `scenes/`).
 - Per la difesa: **preparatevi entrambi a spiegare TUTTO**, non solo la parte che avete scritto — è il rischio principale del lavoro in coppia su 42 (vedi Capitolo III del subject sull'uso dell'IA: la stessa logica vale per il lavoro col partner).
 - Iniziate a testare la geometria (Fase 4) con colori piatti, SENZA luce: se le forme sono giuste, l'illuminazione è molto più facile da debuggare dopo.
+
+## Risorse
+
+https://www.youtube.com/watch?v=a9rQV5Sb8r4
+https://www.youtube.com/watch?v=H5TB2l7zq6s
+
+Articoli
+https://medium.com/@iremoztimur/building-a-minirt-42-project-part-1-ae7a00aebdb9
+https://42-cursus.gitbook.io/guide/4-rank-04/minirt/understand-minirt
+
