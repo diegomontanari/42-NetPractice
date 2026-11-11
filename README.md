@@ -66,8 +66,8 @@ There is no code to compile: the deliverable is the exported configuration of ea
 
 - [42 Cursus guide - NetPractice](https://42-cursus.gitbook.io/guide/4-rank-04/netpractice)
 - [NetPractice: theory and cheat sheet (Digital Brain, in Italian)](https://build-sigma-coral.vercel.app/docs/42/NetPractice/intro)
+- [Sai davvero come funziona Internet? NetPractice (42)](https://diegomontanari.com/2026/09/06/sai-davvero-come-funziona-internet-net-practice-42/) - article about the project by the author (in Italian)
 - Wikipedia: [IPv4](https://en.wikipedia.org/wiki/IPv4), [Subnetwork](https://en.wikipedia.org/wiki/Subnetwork), [Default gateway](https://en.wikipedia.org/wiki/Default_gateway), [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-- Article about the project on the author's website, diegomontanari.com (in Italian)
 
 ### Use of AI
 
